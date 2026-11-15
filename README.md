@@ -31,7 +31,7 @@
     </td>
     <td width="50%" align="center">
       <a href="#little-garden">
-        <img src="garden.svg" wdith="100%" alt="little garden">
+        <img src="garden.svg" width="100%" alt="little garden">
       </a>
     </td>
   </tr>
