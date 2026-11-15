@@ -14,24 +14,24 @@
   <tr>
     <td width="50%" align="center">
       <a href="#languages--tools">
-        01 / languages & tools
+        <img src="langtools.svg" width="100%" alt="languages and tools">
       </a>
     </td>
     <td width="50%" align="center">
       <a href="#featured-projects">
-        02 / featured projects
+        <img src="projects.svg" width="100%" alt="featured projects>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="#github-stats">
-        03 / github stats
+        <img src="gitstats.svg" width="100%" alt="github stats">
       </a>
     </td>
     <td width="50%" align="center">
       <a href="#little-garden">
-        04 / little garden
+        <img src="garden.svg" wdith="100%" alt="little garden">
       </a>
     </td>
   </tr>
