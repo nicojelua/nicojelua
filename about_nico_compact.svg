@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-labelledby="title desc">
+<title id="title">About Nico compact terminal</title><desc id="desc">A wide compact retro terminal with Nico's interests, tools, and mission.</desc>
+<rect x="2" y="2" width="896" height="336" rx="14" fill="#141418" stroke="#85878E" stroke-width="3"/>
+<path d="M16 2H884Q898 2 898 16V53H2V16Q2 2 16 2Z" fill="#292A31"/>
+<circle cx="26" cy="28" r="7" fill="#A3162D"/><circle cx="50" cy="28" r="7" fill="#85878E"/><circle cx="74" cy="28" r="7" fill="#85878E"/>
+<g font-family="Consolas, 'Liberation Mono', monospace" font-size="17" fill="#F1E8EA">
+<text x="110" y="34" font-size="17">nico@localhost: ~</text>
+<text x="28" y="86" fill="#D96778">nico@localhost:~$ whoami</text>
+<text x="28" y="111">nico ♡ | software engineering student @ fgcu</text>
+<text x="28" y="153" fill="#D96778">nico@localhost:~$ cat interests.txt</text>
+<text x="28" y="180">✦ full-stack development</text>
+<text x="28" y="205">✦ game development</text>
+<text x="28" y="230">✦ creative physical computing</text>
+<text x="463" y="153" fill="#D96778" font-size="16">$ cat currently_exploring.txt</text>
+<text x="463" y="180" fill="#C7C1C6" font-size="16">arduino · raspberry pi</text>
+<text x="463" y="205" fill="#C7C1C6" font-size="16">3d printing</text>
+<path d="M28 248H872" stroke="#85878E" stroke-opacity=".4"/>
+<text x="28" y="273" fill="#D96778" font-size="16">nico@localhost:~$ echo $MISSION</text>
+<text x="28" y="301" font-size="16">turning little ideas into things you can click, play with, and hold in your hands. ♡</text>
+<text x="28" y="326" fill="#D96778" font-size="13">nico@localhost:~$</text>
+</g><rect x="185" y="314" width="8" height="14" fill="#D96778"/>
+</svg>
