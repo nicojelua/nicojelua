@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**nicojelua/nicojelua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi my name is nico :)
 
-Here are some ideas to get you started:
+### welcome to my github page 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 creative coding ⌘ game dev ⌘ car enthusiast
+
+-------------------------------------------------
+
+## about me
+
+## languages & tools
+
+## featured projects
+
+## github stats
+
+## my little github garden
