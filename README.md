@@ -51,6 +51,28 @@
 
 ## languages & tools
 
+<sub>01 / my dev tools</sub>
+
+### programming languages
+
+python · c++ · c · javaScript · typeScript · HTML · CSS · SQL
+
+### frameworks & web development
+
+react · next.js · node.js · tailwind CSS · supabase · REST APIs 
+
+### databases
+
+postgreSQL · supabase database
+
+### developer tools
+
+git · gitHub · gitHub CLI · VS Code · visual studio · PyCharm · CLion · WSL2 / Ubuntu · CMake · MinGW / GCC · VirtualBox · arduino
+
+### currently exploring
+
+raspberry pi · 3D printing · DBeaver · IntelliJ IDEA · docker · MySQL · SQLite 
+
 ## featured projects
 
 ## github stats
