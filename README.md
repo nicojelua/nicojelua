@@ -55,4 +55,4 @@
 
 ## github stats
 
-## my little github garden
+## little garden
