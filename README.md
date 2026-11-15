@@ -19,7 +19,7 @@
     </td>
     <td width="50%" align="center">
       <a href="#featured-projects">
-        <img src="projects.svg" width="100%" alt="featured projects>
+        <img src="projects.svg" width="100%" alt="featured projects">
       </a>
     </td>
   </tr>
