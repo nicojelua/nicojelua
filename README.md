@@ -1,6 +1,9 @@
-
 <div align="center">
+
   <img src="gitbanner.png" alt="nico's github banner" width="100%">
+
+  <img src="about_nico.svg" alt="about nico terminal" width="100%">
+
 </div>
 
 -------------------------------------------------
