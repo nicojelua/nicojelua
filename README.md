@@ -39,8 +39,6 @@
 
 -------------------------------------------------
 
-## about me
-
 ## languages & tools
 
 <sub>01 / my dev tools</sub>
