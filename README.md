@@ -85,6 +85,25 @@
 
 ## featured projects
 
+
+## featured projects
+
+<code>nico@dev:~$ tree ~/projects</code>
+
+<!-- this is a tree -->
+
+```text
+nico/
+└── projects/
+    ├── 🎬 reel-talk/
+    │   ├── movie & tv journaling application
+    │   └── status: in development
+    │
+    └── 🌱 algosprout/
+        ├── interactive algorithm learning platform
+        └── status: in development
+```
+
 ## github stats
 
 ## little garden
