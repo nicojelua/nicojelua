@@ -119,7 +119,7 @@ nico/
 
 <p>
   <a href="https://github.com/nicojelua/reel-talk">
-    🎬 view source code ↗
+    view source code ↗
   </a>
 </p>
 
