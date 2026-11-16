@@ -79,7 +79,6 @@
 
 <code>nico@dev:~$ tree ~/projects</code>
 
-<!-- this is a tree -->
 
 ```text
 nico/
@@ -93,15 +92,10 @@ nico/
         └── status: in development
 ```
 
-
-<!-- expandable project folders -->
-
 <details>
   <summary>📂 reel-talk/ — open folder</summary>
 
-  <h3>🎬 reel talk</h3>
-
-  <p><i>movies end, but the conversation doesn't</i></p>
+  <h3>reel talk</h3>
 
   <p>
     a movie and TV journaling application where users
@@ -128,9 +122,9 @@ nico/
 <details>
   <summary>📂 algosprout/ — open folder</summary>
 
-  <h3>🌱 algosprout</h3>
+  <h3>algosprout</h3>
 
-  <p><i>grow your understanding in dsa!!</i></p>
+  <p>grow your understanding in dsa!!</p>
 
   <p>
     an interactive algorithm learning platform
