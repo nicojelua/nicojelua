@@ -39,14 +39,6 @@
 
 -------------------------------------------------
 
-# hi my name is nico :)
-
-### welcome to my github page 
-
-💻 creative coding ⌘ game dev ⌘ car enthusiast
-
--------------------------------------------------
-
 ## about me
 
 ## languages & tools
@@ -82,9 +74,6 @@
 <sub><code>nico@dev:~$ ls ./learning</code></sub>
 
 <code>raspberry pi</code> <code>3D printing</code> <code>IntelliJ IDEA</code> <code>docker</code> <code>MySQL</code> <code>SQLite</code> 
-
-## featured projects
-
 
 ## featured projects
 
