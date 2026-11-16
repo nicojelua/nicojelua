@@ -93,7 +93,7 @@ nico/
 ```
 
 <details>
-  <summary>📂 reel-talk/ — open folder</summary>
+  <summary>📂 reel-talk/ - open folder</summary>
 
   <h3>reel talk</h3>
 
@@ -120,7 +120,7 @@ nico/
 <br>
 
 <details>
-  <summary>📂 algosprout/ — open folder</summary>
+  <summary>📂 algosprout/ - open folder</summary>
 
   <h3>algosprout</h3>
 
