@@ -90,7 +90,7 @@ nico/
     ├── 🌱 algosprout/
     │   └── interactive algorithm learning
     │
-    └── 💌 surprise.py
+    └── 💌 surprise.py/
         └── animated envelope & heart GUI
 ```
 
