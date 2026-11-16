@@ -117,6 +117,12 @@ nico/
     <code>TMDB API</code>
   </p>
 
+<p>
+  <a href="https://github.com/nicojelua/reel-talk">
+    🎬 view source code ↗
+  </a>
+</p>
+
 </details>
 
 <br>
