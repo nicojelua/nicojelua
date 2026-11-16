@@ -55,6 +55,8 @@
 
 ### programming languages
 
+<sub><code>nico@dev:~$ ls ./languages</code></sub>
+
 python · c++ · c · javaScript · typeScript · HTML · CSS · SQL
 
 ### frameworks & web development
