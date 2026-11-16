@@ -81,15 +81,17 @@
 
 
 ```text
+
 nico/
 └── projects/
     ├── 🎬 reel-talk/
-    │   ├── movie & tv journaling application
-    │   └── status: in development
+    │   └── movie & tv journaling app
     │
-    └── 🌱 algosprout/
-        ├── interactive algorithm learning platform
-        └── status: in development
+    ├── 🌱 algosprout/
+    │   └── interactive algorithm learning
+    │
+    └── 💌 surprise.py
+        └── animated envelope & heart GUI
 ```
 
 <details>
@@ -141,6 +143,31 @@ nico/
     <code>data structures</code>
     <code>interactive learning</code>
     <code>gamification</code>
+  </p>
+
+</details>
+
+<br>
+
+<details>
+  <summary> surprise letter - open file</summary>
+
+  <h3>surprise.py</h3>
+
+  <p>a little surprise for anyone !!!</p>
+
+  <p>
+    a playful python desktop application featuring
+    an interactive pink envelope, an animated heart,
+    and a hidden message.
+  </p>
+
+  <p><b>built with:</b></p>
+
+  <p>
+    <code>python</code>
+    <code>Tkinter</code>
+    <code>math</code>
   </p>
 
 </details>
