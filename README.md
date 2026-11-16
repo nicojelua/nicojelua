@@ -57,23 +57,31 @@
 
 <sub><code>nico@dev:~$ ls ./languages</code></sub>
 
-python · c++ · c · javaScript · typeScript · HTML · CSS · SQL
+<code>python</code> <code>c++</code> <code>c</code> <code>java</code> <code>javascript</code> <code>typescript</code> <code>HTML</code> <code>CSS</code> <code>SQL</code>
 
 ### frameworks & web development
 
-react · next.js · node.js · tailwind CSS · supabase · REST APIs 
+<sub><code>nico@dev:~$ ls ./frameworks</code></sub>
+
+<code>react</code> <code>next.js</code> <code>node.js</code> <code>tailwind CSS</code> <code>supabase</code> <code>REST APIs</code> 
 
 ### databases
 
-postgreSQL · supabase database
+<sub><code>nico@dev:~$ ls ./databases</code></sub>
+
+<code>postgreSQL</code> <code>supabase database</code>
 
 ### developer tools
 
-git · gitHub · gitHub CLI · VS Code · visual studio · PyCharm · CLion · WSL2 / Ubuntu · CMake · MinGW / GCC · VirtualBox · arduino
+<sub><code>nico@dev:~$ ls ./tools</code></sub>
+
+<code>git</code> <code>gitHub</code> <code>github CLI</code> <code>VS Code</code> <code>visual studio</code> <code>pyCharm</code> <code>CLion</code> <code>WSL2 / Ubuntu</code> <code>CMake</code> <code>MinGW / GCC</code> <code>VirtualBox</code> <code>arduino</code>
 
 ### currently exploring
 
-raspberry pi · 3D printing · DBeaver · IntelliJ IDEA · docker · MySQL · SQLite 
+<sub><code>nico@dev:~$ ls ./learning</code></sub>
+
+<code>raspberry pi</code> <code>3D printing</code> <code>IntelliJ IDEA</code> <code>docker</code> <code>MySQL</code> <code>SQLite</code> 
 
 ## featured projects
 
