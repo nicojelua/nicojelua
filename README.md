@@ -150,7 +150,7 @@ nico/
 <br>
 
 <details>
-  <summary>📂 surprise letter - open file</summary>
+  <summary>📂 surprise letter/ - open file</summary>
 
   <h3>surprise.py</h3>
 
