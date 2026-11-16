@@ -37,7 +37,7 @@
   </tr>
 </table>
 
--------------------------------------------------
+----------------------------------------------------------------------------------
 
 ## languages & tools
 
@@ -73,6 +73,8 @@
 
 <code>raspberry pi</code> <code>3D printing</code> <code>IntelliJ IDEA</code> <code>docker</code> <code>MySQL</code> <code>SQLite</code> 
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 ## featured projects
 
 <code>nico@dev:~$ tree ~/projects</code>
@@ -91,6 +93,66 @@ nico/
         └── status: in development
 ```
 
-## github stats
 
+<!-- expandable project folders -->
+
+<details>
+  <summary>📂 reel-talk/ — open folder</summary>
+
+  <h3>🎬 reel talk</h3>
+
+  <p><i>movies end, but the conversation doesn't</i></p>
+
+  <p>
+    a movie and TV journaling application where users
+    can track what they watch, write reviews, rate titles,
+    and organize entries into personal or collaborative journals. 
+  </p>
+
+  <p><b>status:</b> 🚧 in development</p>
+
+  <p><b>built with:</b></p>
+
+  <p>
+    <code>Next.js</code>
+    <code>TypeScript</code>
+    <code>Tailwind CSS</code>
+    <code>Supabase</code>
+    <code>TMDB API</code>
+  </p>
+
+</details>
+
+<br>
+
+<details>
+  <summary>📂 algosprout/ — open folder</summary>
+
+  <h3>🌱 algosprout</h3>
+
+  <p><i>grow your understanding in dsa!!</i></p>
+
+  <p>
+    an interactive algorithm learning platform
+    featuring visualizations, step-by-step explanations,
+    educational games, and personalized learning progress.
+  </p>
+
+  <p><b>status:</b> 🚧 in development</p>
+
+  <p><b>focus:</b></p>
+
+  <p>
+    <code>algorithms</code>
+    <code>data structures</code>
+    <code>interactive learning</code>
+    <code>gamification</code>
+  </p>
+
+</details>
+
+-----------------------------------------------------------------
+
+## github stats
+-----------------------------------------------------------------
 ## little garden
