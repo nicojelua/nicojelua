@@ -170,6 +170,12 @@ nico/
     <code>math</code>
   </p>
 
+<p>
+  <a href="https://github.com/nicojelua/desktop-surprise-letter">
+    view source code ↗
+  </a>
+</p>
+
 </details>
 
 -----------------------------------------------------------------
